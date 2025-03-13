@@ -6,3 +6,6 @@
 >-  [Merge Sort](/sorts/mergeSort.c)
 >-  [Quick Sort](/sorts/quickSort.c)
 >-  [Cost Spanning Tree](/costSpanningTree.c)
+
+> 13/03/2025
+>- [Kruskal Algorithm](/Kruskal_spanning.c)
