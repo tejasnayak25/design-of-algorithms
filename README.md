@@ -1,6 +1,12 @@
 # Design Of Algorithms
 
 ## Timeline
+> 17/04/2025
+>- [Knapsack using Dynamic Programming](/knapsackDynamic.c)
+>- [Knapsack using Greedy Method](/knapsackGreedy.c)
+>- [Floyd's Algorithm](/floyd.c)
+>- [Warshall's Algorithm](/warshall.c)
+
 > 27/03/2025
 >- [Topological Sort](/topological_sort.c)
 
