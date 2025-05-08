@@ -1,6 +1,10 @@
 # Design Of Algorithms
 
 ## Timeline
+
+> 08/05/2025
+>- [Sum Of Subsets](/sumOfSubsets.c)
+
 > 17/04/2025
 >- [Knapsack using Dynamic Programming](/knapsackDynamic.c)
 >- [Knapsack using Greedy Method](/knapsackGreedy.c)
