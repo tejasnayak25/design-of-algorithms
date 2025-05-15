@@ -2,6 +2,10 @@
 
 ## Timeline
 
+> 15/05/2025
+>- [NQueens](/NQueens.c)
+>- [Dijkstra's Algorithm](/dijkstra.c)
+
 > 08/05/2025
 >- [Sum Of Subsets](/sumOfSubsets.c)
 
